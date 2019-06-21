@@ -38,5 +38,9 @@ Not yet published
 	- Creation of the nuts server for auto-updating
 	- Electron App auto-updating
 	- Electron App building
+- [x] **0.2.0**
+	-  Update dependencies
+	-  Install Bootstrap, font-awsome, jquery, popper
+ 	-  Creation of Discord rich-presence
 
 ## Preview
