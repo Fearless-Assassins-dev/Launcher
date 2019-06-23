@@ -43,5 +43,9 @@ Not yet published
 	-  Update dependencies
 	-  Install Bootstrap, font-awsome, jquery, popper
  	-  Creation of Discord rich-presence
+ - [x] **0.3.0**
+	 - Auto-update animation
+	 - library adding (electron storage,etc...)
+	 - CSS template
 
 ## Preview
