@@ -2,11 +2,11 @@
   <br>
   <a href="https://github.com/Fearless-Assassins/AdminHelperTool"><img src="https://bot.scarface06.xyz/icone.png" alt="=F|A= AdminHelperTool" width="200"></a>
   <br>
-  =F|A= AdminHelperTool
+  =F|A= Launcher
   <br>
 </h1>
 
-<h4 align="center">A <a href="https://electronjs.org/" target="_blank">Electron</a> application to help in the administrative tasks of  <a href="https://fearless-assassins.com/" target="_blank">Fearless-Assassins</a></h4>
+<h4 align="center">A <a href="https://electronjs.org/" target="_blank">Electron</a> application to fast connect to <a href="https://fearless-assassins.com/" target="_blank">Fearless-Assassins</a> servers</h4>
 
 <p align="center">
 	<img src="https://travis-ci.com/FontanyLegall-Brandon/F-A-AdminHelperTool.svg?token=ddDp96SuTBDWqbwuapYh&branch=master">
