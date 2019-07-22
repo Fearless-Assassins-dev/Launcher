@@ -47,5 +47,10 @@ Not yet published
 	 - Auto-update animation
 	 - library adding (electron storage,etc...)
 	 - CSS template
+- [x] **0.4.0**
+	 - Change to Launcher
+   - status server request/storage with status API
+   - Status Badge
+   - Server status page
 
 ## Preview
