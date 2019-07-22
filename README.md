@@ -9,7 +9,7 @@
 <h4 align="center">A <a href="https://electronjs.org/" target="_blank">Electron</a> application to fast connect to <a href="https://fearless-assassins.com/" target="_blank">Fearless-Assassins</a> servers</h4>
 
 <p align="center">
-	<img src="https://travis-ci.com/FontanyLegall-Brandon/F-A-AdminHelperTool.svg?token=ddDp96SuTBDWqbwuapYh&branch=master">
+	<img src="https://travis-ci.com/FontanyLegall-Brandon/F-A-Launcher.svg?token=ddDp96SuTBDWqbwuapYh&branch=master">
   <img src="https://img.shields.io/node/v/electron.svg">
   <img src="https://img.shields.io/github/release/Fearless-Assassins/AdminHelperTool.svg">
    <a href="https://discord.clan-fa.com">
