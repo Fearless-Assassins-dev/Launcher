@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/node/v/electron.svg">
   <img src="https://img.shields.io/github/release/Fearless-Assassins/AdminHelperTool.svg">
    <a href="https://discord.clan-fa.com">
-    <img src="https://img.shields.io/discord/325403318291791873.svg">
+    <img src="https://discordapp.com/api/guilds/325403318291791873/embed.png">
   </a>
   <a href="https://fearless-assassins.com/">
     <img src="https://img.shields.io/website/https/fearless-assassins.com.svg?label=%3DF%7CA%3D%20Website">
