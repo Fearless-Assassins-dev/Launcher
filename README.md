@@ -43,14 +43,18 @@ Not yet published
 	-  Update dependencies
 	-  Install Bootstrap, font-awsome, jquery, popper
  	-  Creation of Discord rich-presence
- - [x] **0.3.0**
+- [x] **0.3.0**
 	 - Auto-update animation
 	 - library adding (electron storage,etc...)
 	 - CSS template
 - [x] **0.4.0**
 	 - Change to Launcher
-   - status server request/storage with status API
-   - Status Badge
-   - Server status page
+	 - status server request/storage with status API
+	 - Status Badge
+	 - Server status page
+- [x] **0.5.0**
+	- Fist version of the settings
+	- security eslint-utiles fix
+	- security lodash fix
 
 ## Preview
